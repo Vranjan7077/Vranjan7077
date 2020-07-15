@@ -3,7 +3,7 @@
 
 <p align="center">
   <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/developer.gif?raw=true" width="450px"><br><br>
-  <samp> I'm a Software Developer from New Delhi, IND. Wanna be a MERN Stack developer and a pro in frontend. Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge on hacking and my insights of learning with others through Blogging...
+  <samp> I'm a Software Developer from New Delhi, IND. Wanna be a MERN Stack developer and a pro in frontend. Passioniate towards learning, love to design UI/UX and Love sharing my knowledge on hacking and my insights of learning with others through Blogging...
   </samp>
   <br>
 </p>
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/androidstudio%20-%4285F4.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
