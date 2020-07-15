@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/androidstudio%20-%4285F4.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img  src="https://img.shields.io/badge/android-studio%20-%4285F4.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
