@@ -38,7 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sketch%20-%F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobe-xd%20-%23e34f26.svg?&style=for-the-badge&logo=xd&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/adobexd%20-%23e34f26.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" />&nbsp;&nbsp;
 
 </p>
 
