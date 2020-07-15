@@ -21,15 +21,26 @@
 
 
 <h4> 🔭 I’m working with ...</h4>
-<h5> Frontend</h5>
+<h5>Frontend</h5>
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/android_studio%20-%4285F4.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
+
+
+
+
+<h4> 🔭 I’m working with ...</h4>
+<h5> UI/UX </h5>
+<p>
+  <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/sketch%20-%F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/adobe_xd%20-%FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />&nbsp;&nbsp;
+
+</p>
 
 
 
