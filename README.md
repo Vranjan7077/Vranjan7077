@@ -25,7 +25,10 @@
 <p >
   <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/css3.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/b90ffd89260bc39a8b844ab35c49a4a387806694/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/b90ffd89260bc39a8b844ab35c49a4a387806694/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/137979c9e68ab3d311501834e1a6386adb2e6612/svg/dev/languages/java.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/137979c9e68ab3d311501834e1a6386adb2e6612/svg/dev/languages/python.svg" alt="js" style="vertical-align:top; margin:4px">
+
   <!--
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -49,6 +52,13 @@
 
 
 
+<h4> 🛸 Editors...</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/jetbrains_pycharm.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/visualstudio.svg" alt="js" style="vertical-align:top; margin:4px">  
+</p>
+
 
 
 
@@ -57,17 +67,6 @@
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
-
-
-
-<h4> 🛸 Editors...</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/jetbrains_pycharm.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/visualstudio.svg" alt="js" style="vertical-align:top; margin:4px">  
-</p>
-
 
 
 
