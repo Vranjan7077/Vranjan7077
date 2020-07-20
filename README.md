@@ -38,7 +38,7 @@
 
 
 
-<h4> 🔭 Designing Tools ...</h4>
+<h4> ⚡️ Designing Tools ...</h4>
 <h5> UI/UX </h5>
 <p>
   <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
@@ -58,6 +58,15 @@
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
+
+
+
+<h4> 🛸 Editors...</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/jetbrains_pycharm.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/visualstudio.svg" alt="js" style="vertical-align:top; margin:4px">  
+</p>
 
 
 
