@@ -21,7 +21,7 @@
 
 
 <h4> 🔭 I’m working with ...</h4>
-<h5>Frontend</h5>
+<h5>Languages</h5>
 <p >
   <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/css3.svg" alt="js" style="vertical-align:top; margin:4px">  
