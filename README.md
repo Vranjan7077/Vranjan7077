@@ -68,6 +68,15 @@
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
+
+
+<!-- Visit to see the code and the working of this repo-->
+<!-- https://github.com/tipsy/profile-summary-for-github/-->
+
+###Profile Stats
+![Profile Stats](https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/pic_stats.png?raw=true)
+
+
 <!--
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Vranjan7077&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
 
