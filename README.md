@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Vinay 👋 🧑🏻‍💻 </h2>
+<h2 align='center'> Hi there, I'm Vinay 🧑🏻‍💻 </h2>
 
 
 <p align="center">
@@ -14,9 +14,6 @@
 <p align='center'>
     <a href="https://www.linkedin.com/in/vinay-rs/" alt="Linkedin"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
     <a href="mailto:ranvinay123@gmail.com" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
-    <!--
-    <a href="https://www.linkedin.com/in/vinay-rs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="mailto:ranvinay123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
 
