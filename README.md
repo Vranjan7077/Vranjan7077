@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Vinay 🧑🏻‍💻 </h2>
+<h2 align='center'> Hi there, I'm Vinay 🧑🏻 </h2>
 
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 
-
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
 <h4> 🔭 I’m working with ...</h4>
