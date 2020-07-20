@@ -75,9 +75,6 @@
 
 
 
-## Profile Stats
-
-
 ![Profile Stats](https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/pic_stats.png?raw=true)
 
 
