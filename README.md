@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there, I'm Vinay 👩‍💻🏻 </h2>
+<h2 align='center'> Hi there, I'm Vinay 👩‍💻 </h2>
 
 
 <p align="center">
