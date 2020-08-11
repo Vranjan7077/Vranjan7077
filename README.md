@@ -73,7 +73,7 @@
 
 
 <!-----Top Languages------>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vranjan7077&theme=light" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vranjan7077&theme=light" />-->
 
 
 
