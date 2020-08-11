@@ -72,19 +72,17 @@
 <!-----Top Languages------>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vranjan7077&theme=light" />
 
+
 <!-----GitHub Stats------>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Vranjan7077&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!--<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Vranjan7077&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
 
 
+<!-----Projects------>
 
-
-
-
-
-
-
-
+<a href="https://github.com/Apk23/orangeneedle">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vranjan7077&repo=orangeneedle&theme=dark" />
+</a>
 
 
 
