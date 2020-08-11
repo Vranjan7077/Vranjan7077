@@ -38,7 +38,10 @@
 </p>
 
 
+<!-----GitHub Octocat------>
 
+<img src = "https://lh6.googleusercontent.com/proxy/iwhKOv3tfirUNTArPiI1UTKw8gbdyY5-vElZJSDkOoQfGTVg023Jn-7sFAmUR3Sce8IKQC0zG4mus0u-mM7hyVLsYis4CufWhmaCzg" align = "right" width = 150, height = 150>
+</br>
 
 
 <h4> ⚡️ Designing Tools ...</h4>
@@ -76,16 +79,6 @@
 <!-----GitHub Stats------>
 
 <!--<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Vranjan7077&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
-
-
-<!-----Projects------>
-
-<a href="https://github.com/Apk23/orangeneedle">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vranjan7077&repo=orangeneedle&theme=dark" />
-</a>
-
-
-
 
 
 
