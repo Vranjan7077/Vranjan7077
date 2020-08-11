@@ -76,12 +76,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vranjan7077&theme=light" />
 
 
-<!-----GitHub Stats------>
-
-<!--<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Vranjan7077&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">-->
-
-
-
 
 <!-- Visit to see the code and the working of this repo-->
 <!-- https://github.com/tipsy/profile-summary-for-github/-->
