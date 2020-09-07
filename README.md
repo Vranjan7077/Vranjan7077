@@ -20,7 +20,8 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!--<p align="right"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="250px"></p> -->
 
-<img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" style="float:right" />
+<!--<img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" style="float:right" /> -->
+<img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" alt="Vranjan7077" width="200" height="200">
 
 
 <h4> 🔭 I’m working with ...</h4>
