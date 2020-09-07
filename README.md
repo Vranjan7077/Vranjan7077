@@ -48,7 +48,7 @@
 </p>
 
 <p align="right">
-  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/developer.gif?raw=true" width="450px"><br><br>
+  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="200px"><br><br>
   <br>
 </p>
 
