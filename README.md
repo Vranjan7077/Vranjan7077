@@ -19,7 +19,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="right">
-  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="200px">
+  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="100px">
 </p>
 
 <h4> 🔭 I’m working with ...</h4>
