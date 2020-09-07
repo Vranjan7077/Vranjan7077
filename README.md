@@ -38,9 +38,6 @@
 </p>
 
 
-
-
-
 <h4> ⚡️ Designing Tools ...</h4>
 <h5> UI/UX </h5>
 <p>
@@ -51,7 +48,6 @@
 </p>
 
 
-
 <h4> 🛸 Editors...</h4>
 <p>
   <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">  
@@ -60,9 +56,7 @@
 </p>
 
 
-
-
-<h4> 🌱    I'm currently learning...</h4>
+<h4> 🌱 I'm currently learning...</h4>
 <p>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -75,11 +69,8 @@
 
 
 
-![Profile Stats](https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/pic_stats.png?raw=true)
+[![Profile Stats](https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/pic_stats.png?raw=true)](https://github.com/tipsy/profile-summary-for-github/)
 
-
-<!--
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Vranjan7077&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **Vranjan7077/Vranjan7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
