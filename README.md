@@ -18,7 +18,9 @@
 
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
+<p align="right">
+  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="200px">
+</p>
 
 <h4> 🔭 I’m working with ...</h4>
 <h5>Languages</h5>
@@ -46,12 +48,6 @@
   <img src="https://img.shields.io/badge/adobexd%20-%23e34f26.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" />&nbsp;&nbsp;
 
 </p>
-
-<p align="right">
-  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true" width="200px"><br><br>
-  <br>
-</p>
-
 
 
 <h4> 🛸 Editors...</h4>
