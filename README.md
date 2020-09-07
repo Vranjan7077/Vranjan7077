@@ -15,7 +15,7 @@
     <a href="mailto:ranvinay123@gmail.com" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
 </p>
 
-
+<img align="right" width="100" height="100" src="https://github.com/Vranjan7077/Vranjan7077/blob/master/steroid.png?raw=true">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
