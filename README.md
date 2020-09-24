@@ -68,9 +68,6 @@
 
 
 
-[![Profile Stats](https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/pic_stats.png?raw=true)](https://github.com/tipsy/profile-summary-for-github/)
-
-
 <!--
 **Vranjan7077/Vranjan7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
