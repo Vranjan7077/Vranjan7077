@@ -11,8 +11,8 @@
 
 <h3  align='center'>Find me around the web 🌎 </h3>
 <p align='center'>
-    <a href="https://www.linkedin.com/in/vinay-rs/" alt="Linkedin"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
-    <a href="mailto:ranvinay123@gmail.com" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
+    <a href="#" alt="Linkedin"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
+    <a href="mailto:#" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
 </p>
 
 <img align="right" width="250" height="250" src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/steroid.png?raw=true">
