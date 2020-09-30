@@ -13,7 +13,7 @@
 <p align='center'>
     <a href="#" alt="Linkedin"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
     <a href="mailto:#" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
-  <a href="#" alt="Dribble"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
+  <a href="#" alt="Dribble"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/dribble-fill.svg"></a>
 </p>
 
 <img align="right" width="250" height="250" src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/steroid.png?raw=true">
