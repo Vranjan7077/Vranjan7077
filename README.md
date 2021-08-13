@@ -3,7 +3,7 @@
 
 <p align="center">
   <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/developer.gif?raw=true" width="450px"><br><br>
-  <samp> I'm a Software Developer from New Delhi, IND. Wanna be a MEAN Stack developer. Passioniate towards learning, love to design UI and Love sharing my knowledge on hacking and my insights of learning with others through Blogging...
+  <samp> I'm a Software Developer from New Delhi, IND. MEAN Stack developer. Passioniate towards learning, love to design UI and Love sharing my knowledge on hacking and my insights of learning with others through Blogging...
   </samp>
   <br>
 </p>
