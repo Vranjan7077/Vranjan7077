@@ -1,13 +1,3 @@
-<!-- <h2 align='center'> Hi there, I'm Vinay 👩‍💻 </h2>
-
-
-<p align="center">
-  <br><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/developer.gif?raw=true" width="450px"><br><br>
-  <samp> I'm a Software Developer from New Delhi, IND. MEAN Stack developer. Passioniate towards learning, love to design UI and Love sharing my knowledge on hacking and my insights of learning with others through Blogging...
-  </samp>
-  <br>
-</p> -->
-
 ## Hi there 👋🏻
 
 ---
@@ -22,9 +12,6 @@ I'm Vinay , a Software developer based India 🇮🇳.
 
 - 💬 Ask me about anything [here](https://github.com/Vranjan7077/Vranjan7077/issues)
 
-
----
-
 <p>
     <a href="https://github.com/Vranjan7077/Vranjan7077">
         <img src="https://komarev.com/ghpvc/?username=Vranjan7077&color=blueviolet&style=flat&label=Profile Views"
@@ -37,86 +24,83 @@ I'm Vinay , a Software developer based India 🇮🇳.
     <a href="https://github.com/Vranjan7077?tab=repositories">
         <img src="https://badges.pufler.dev/commits/weekly/Vranjan7077?label=Weekly+Commits" />
     </a>
-    <a href="https://github.com/Vranjan7077?tab=repositories">
-        <img src="https://badges.pufler.dev/years/Vranjan7077?color=blue" alt="Joined year" />
-    </a>
 </p>
 
 ---
 
-<!-- <h3  align='center'>Find me around the web 🌎 </h3>
-<p align='center'>
-    <a href="#" alt="Linkedin"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/linkedin-fill.svg"></a>
-    <a href="mailto:#" alt="Contact me"><img src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/mail-fill.svg"></a>
+<h2 align="left">Skills</h2>
 
-</p> -->
+<h3 align="left">🛸 Programming Languages :</h3>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+        height="40" /> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus" width="40" height="40" />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        width="40" height="40" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript" width="40" height="40" />
+</a>
 
-<img align="right" width="250" height="250" src="https://github.com/Vranjan7077/Vranjan7077/blob/master/svg/steroid.png?raw=true">
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<h3 align="left">🧰 Frontend Development :</h3>
+<a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a><a
+    href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3.org/html/" target="_blank"
+    rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3" width="40" height="40" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" /> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+        width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+        height="40" /> </a><a href="https://pugjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a><a
+    href="https://gulpjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40"
+        height="40" />
+</a>
 
+<h3 align="left">🔭 Backend Development :</h3>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" width="40" height="40" />
+</a>
 
-<h4> 🔭 I’m working with ...</h4>
-<h5>Languages</h5>
-<p >
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/abc4c4319d788e0d5ac6dd0fb932d3c39e3ca7f3/svg/dev/languages/css3.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/b90ffd89260bc39a8b844ab35c49a4a387806694/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/137979c9e68ab3d311501834e1a6386adb2e6612/svg/dev/languages/java.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/137979c9e68ab3d311501834e1a6386adb2e6612/svg/dev/languages/python.svg" alt="js" style="vertical-align:top; margin:4px">
+<h3 align="left">🌱 Database :</h3>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank"
+    rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+</a><a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+</a>
 
-  <!--
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/android_studio%20-%4285F4.svg?&style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
--->
-</p>
+<h3 align="left">⚡️ Designing Software :</h3>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a><a
+    href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+        width="40" height="40" /> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+</a>
 
-
-<h4> ⚡️ Designing Tools ...</h4>
-<h5> UI/UX </h5>
-<p>
-  <img src="https://img.shields.io/badge/figma%20-%231572B6.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sketch%20-%6f42c1.svg?&style=for-the-badge&logo=sketch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobexd%20-%23e34f26.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white" />&nbsp;&nbsp;
-
-</p>
-
-
-<h4> 🛸 Editors...</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/jetbrains_pycharm.svg" alt="js" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/Vranjan7077/Vranjan7077/d09a7236eb9c8ee3d7733846f0d4ac450c9a91e5/svg/dev/tools/visualstudio.svg" alt="js" style="vertical-align:top; margin:4px">  
-</p>
-
-
-<h4> 🌱 I'm currently learning...</h4>
-<p>
-  <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
+---
 
 | ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vranjan7077&count_private=true&show_icons=true&theme=dark&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vranjan7077&hide=python,matlab,c&layout=compact&theme=dark) |
 | ------------- | ------------- |
 
-<!-- Visit to see the code and the working of this repo-->
-<!-- https://github.com/tipsy/profile-summary-for-github/-->
-
-
-
-<!--
-**Vranjan7077/Vranjan7077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
