@@ -63,6 +63,7 @@
 </p>
 
 
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vranjan7077&count_private=true&show_icons=true&theme=dark)
 
 <!-- Visit to see the code and the working of this repo-->
 <!-- https://github.com/tipsy/profile-summary-for-github/-->
