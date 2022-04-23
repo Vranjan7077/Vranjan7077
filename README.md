@@ -2,7 +2,7 @@
 
 ---
 
-I'm Vinay , a Software developer based India 🇮🇳.
+I'm Vinay , a Software Engineer based India 🇮🇳.
 
 **About me**
 
