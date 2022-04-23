@@ -8,7 +8,7 @@ I'm Vinay , a Software Engineer based India 🇮🇳.
 
 - 💼 Working as UI Engineer at [DMI](https://dminc.com/)
 
-- 🧐 My focus is on crafting UI, performant interfaces & accessibility for humans.
+- 🧐 My focus is on crafting UI, performant interfaces & better web accessibility for humans.
 
 - 💬 Ask me about anything [here](https://github.com/Vranjan7077/Vranjan7077/issues)
 
