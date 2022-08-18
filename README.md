@@ -17,13 +17,6 @@ I'm Vinay , a Software Engineer based India 🇮🇳.
         <img src="https://komarev.com/ghpvc/?username=Vranjan7077&color=blueviolet&style=flat&label=Profile Views"
             alt="Profile Views" />
     </a>
-    <a href="https://github.com/Vranjan7077?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/Vranjan7077?color=red&logo=github&label=Public+Repos"
-            alt="Public Repo" />
-    </a>
-    <a href="https://github.com/Vranjan7077?tab=repositories">
-        <img src="https://badges.pufler.dev/commits/weekly/Vranjan7077?label=Weekly+Commits" />
-    </a>
 </p>
 
 ---
