@@ -6,7 +6,7 @@ I'm Vinay , a Software Engineer based India 🇮🇳.
 
 **About me**
 
-- 💼 Working as Software Engineer UI at [DMI](https://dminc.com/)
+- 💼 Working as Assocate Software Engineer at [DMI](https://dminc.com/)
 
 - 🧐 My focus is on crafting UI, performant interfaces & better web accessibility for humans.
 
