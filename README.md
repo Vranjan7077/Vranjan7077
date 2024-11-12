@@ -1,99 +1,140 @@
-## Hi there 👋🏻
+## 👋🏻 Hi I'm Vinay Ranjan
 
----
-
-I'm Vinay , a Software Engineer based India 🇮🇳.
-
-**About me**
-
-- 💼 Working as Software Engineer at [DMI](https://dminc.com/)
-
-- 🧐 My focus is on crafting UI, performant interfaces & better web accessibility for humans.
-
-- 💬 Ask me about anything [here](https://github.com/Vranjan7077/Vranjan7077/issues)
+👩‍💻 Currently working as a SDE with over 3+ years of experience in developing and delivering high-quality web applications and interfaces.
 
 <p>
-    <a href="https://github.com/Vranjan7077/Vranjan7077">
-        <img src="https://komarev.com/ghpvc/?username=Vranjan7077&color=blueviolet&style=flat&label=Profile Views"
-            alt="Profile Views" />
+    <!-- <a href="https://github.com/Vranjan7077?tab=repositories"  title="https://github.com/Vranjan7077?tab=repositories"><img src="https://badges.strrl.dev/commits/all/Vranjan7077" alt="All_Commits"/></a>  -->
+     <a href="https://github.com/Vranjan7077?tab=repositories" title="https://github.com/Vranjan7077?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/Vranjan7077" alt="All_Contributions"/></a> 
+      <!-- <a href="https://github.com/Vranjan7077?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Vranjan7077&color=blueviolet&style=flat&label=Profile Views" alt="Profile Views" /> -->
     </a>
 </p>
 
----
+### 📖 More About Me :
 
-<h2 align="left">Skills</h2>
+- 🧐 &nbsp; Focused on crafting high-performance, accessible user interfaces.
+
+- 🎓 &nbsp; Master’s in Computer Applications.
+
+- 💻 &nbsp; Skilled in JavaScript, React, and modern web development.
+
+- 🌱 &nbsp; Always exploring new tech and optimizing web performance.
+
+- 🌐 &nbsp; Always learning something new, whether it's a framework, a tool, or a new development pattern.
+
+- 💬 &nbsp; Reach out with questions or ideas [here](https://github.com/Vranjan7077/Vranjan7077/issues).
 
 <h3 align="left">🛸 Programming Languages :</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-        height="40" /> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus" width="40" height="40" />
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" />
-</a>
+<div align="left">
+
+<p>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" >  <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  /></a>
+   <!-- cpp -->
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" > <img width="12" /><img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png" alt="cpp" /></a>
+      <!-- java -->
+   <a href="https://docs.oracle.com/javase/8" title="Java" >   <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
+   <!-- typescript -->
+   <a href="https://www.typescriptlang.org" title="TypeScript"> <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
+   <!-- javascript -->
+   <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" >   <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></a>
+
+</p>
+</div>
 
 <h3 align="left">🧰 Frontend Development :</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a><a
-    href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a><a href="https://www.w3.org/html/" target="_blank"
-    rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" /> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" /> </a><a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /> </a><a
-    href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40"
-        height="40" />
-</a>
+<div align="left">
 
-<h3 align="left">🔭 Backend Development :</h3>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" />
-</a>
+<p>
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="40" alt="jamstack logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" height="40" alt="eleventy logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="40" alt="grunt logo"  />
 
-<h3 align="left">🌱 Database :</h3>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank"
-    rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-</a><a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-</a>
+</p>
+</div>
 
-<h3 align="left">⚡️ Designing Software :</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a><a
-    href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-        width="40" height="40" /> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-</a>
+<h3 align="left">🌱 Backend Development :</h3>
 
----
+<div align="left">
 
-| ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vranjan7077&count_private=true&show_icons=true&theme=dark&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vranjan7077&hide=python,matlab,c&layout=compact&theme=dark) |
-| ------------- | ------------- |
+<p>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</p>
+</div>
 
+<h3 align="left">📖 State Management :</h3>
+
+<div align="left">
+
+<p>
+    <!-- NgRx -->
+<a href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" /></a>
+    <!-- redux -->
+<a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux"/></a>
+</p>
+
+</div>
+
+<h3 align="left">☁️ Cloud :</h3>
+<div align="left">
+<p>
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  </p>
+</div>
+
+<h3 align="left">⚡️ Designing :</h3>
+
+<div align="left">
+
+<p>
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</p>
+
+</div>
+
+<h3 align="left">🔥 My Stats :</h3>
+
+| ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vranjan7077&count_private=true&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vranjan7077&theme=dark)  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vranjan7077&theme=dark)                                                | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vranjan7077&hide=python,matlab,c&layout=compact&theme=dark) |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vranjan7077/vranjan7077/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vranjan7077/vranjan7077/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vranjan7077/vranjan7077/output/github-snake.svg" />
+</picture>
