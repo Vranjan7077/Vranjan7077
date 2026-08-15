@@ -3,10 +3,7 @@
 👩‍💻 Currently working as a SDE with over 3+ years of experience in developing and delivering high-quality web applications and interfaces.
 
 <p>
-    <!-- <a href="https://github.com/Vranjan7077?tab=repositories"  title="https://github.com/Vranjan7077?tab=repositories"><img src="https://badges.strrl.dev/commits/all/Vranjan7077" alt="All_Commits"/></a>  -->
-     <a href="https://github.com/Vranjan7077?tab=repositories" title="https://github.com/Vranjan7077?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/Vranjan7077" alt="All_Contributions"/></a> 
-      <!-- <a href="https://github.com/Vranjan7077?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Vranjan7077&color=blueviolet&style=flat&label=Profile Views" alt="Profile Views" /> -->
-    </a>
+    <a href="https://github.com/Vranjan7077?tab=repositories" title="https://github.com/Vranjan7077?tab=repositories"><img src="https://badges.strrl.dev/contributions/all/Vranjan7077" alt="All_Contributions"/></a>
 </p>
 
 ### 📖 More About Me :
@@ -92,7 +89,7 @@
 
 <p>
     <!-- NgRx -->
-<a href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" /></a>
+<a href="https://ngrx.io/" title="NgRx" ><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" alt="NgRx" /></a>
     <!-- redux -->
 <a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/40/000000/redux.png" alt="Redux"/></a>
 </p>
@@ -129,9 +126,9 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-| ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vranjan7077&count_private=true&show_icons=true&theme=dark&include_all_commits=true) | ![Top Languages Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vranjan7077&theme=dark)  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vranjan7077&theme=dark)                                                | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vranjan7077&hide=python,matlab,c&layout=compact&theme=dark) |
+<p align="center">
+  <img src="./github-metrics.svg" alt="Vinay's GitHub metrics" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vranjan7077/vranjan7077/output/github-snake-dark.svg" />
